@@ -4,12 +4,13 @@ This repo is the code that powers the API I recently added to Mashape.com, the A
 
 ## Installation
 
-Requirements
+#### Requirements
 - Apache
 - PHP 5.3+
 - cURL
 - composer
 
+#### Command Line
 ```
 git clone https://github.com/montanaflynn/lorem-ipsum-api.git
 cd lorem-ipsum-api
