@@ -6,7 +6,7 @@ This repo is the code that powers the API I recently added to Mashape.com, the A
 
 #### Requirements
 - Apache
-- PHP 5.3+
+- PHP 5.3.3+
 - cURL
 - composer
 
@@ -15,8 +15,9 @@ This repo is the code that powers the API I recently added to Mashape.com, the A
 git clone https://github.com/montanaflynn/lorem-ipsum-api.git
 cd lorem-ipsum-api
 composer install
-# That's all folks
 ```
+#### Troubleshooting
+If your getting a 404 error, it's probably because you installed this in a directory outside the web root, if thats the case just uncomment the RewriteBase line in the .htaccess file and make sure it matches your path.
 
 ## Usage
 Documentation is provided on Mashape here: https://www.mashape.com/montanaflynn/lorem-text-generator#documentation
