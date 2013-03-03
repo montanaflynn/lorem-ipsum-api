@@ -1,0 +1,6 @@
+# Composer Files
+composer.lock
+vendor/
+
+# OSX Files
+.DS_Store
