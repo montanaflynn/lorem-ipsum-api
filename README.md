@@ -24,4 +24,4 @@ Documentation is provided on Mashape here: https://www.mashape.com/montanaflynn/
 
 
 ## Credits
-Composer, Slim, Faker are the three main components that make this API.  The only file I created merely acts as the glue to hold it all together.
+Composer, Slim, Faker are the three main components that make this API.  All I did was make them all work together.
