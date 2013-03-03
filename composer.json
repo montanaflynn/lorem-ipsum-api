@@ -1,0 +1,10 @@
+{
+    "name": "Lorem Ipsum Generator",
+    "author": "Montana Flynn",
+    "type": "API",
+    "require": {
+        "php": ">=5.3.3",
+        "fzaninotto/faker": "dev-master",
+        "slim/slim": "dev-master"
+    }
+}
